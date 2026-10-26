@@ -39,7 +39,7 @@ the score and displays the result.
 
 ### Fully Dressed Use Case 2: Take a Quiz
 
-**Use Case ID:** UC-12
+**Use Case ID:** UC-11
 
 **Primary Actor:** Student
 
